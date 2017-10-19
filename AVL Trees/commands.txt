@@ -1,0 +1,2 @@
+READ_DATA input.txt
+WRITE_INDEX output.txt
