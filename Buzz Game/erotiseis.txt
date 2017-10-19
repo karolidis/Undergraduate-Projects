@@ -1,0 +1,52 @@
+﻿Ποιός είναι ο πρόεδρος του τμήματος πληροφορικής;_Ο Κ.Νικοπολιτίδης_Ο Κ.Βλαχάβας_Ο Κ.Τσουμάκας_Ο Κ.Βράκας_Ο Κ.Βλαχάβας_Τμήμα Πληροφορικής ΑΠΘ_no
+Who is the president of AUTH computer science departement?_Mr.Nikopolitidis_Mr.Vlahavas_Mr.Tsoumakas_Mr.Vrakas_Mr.Vlahavas_AUTH computer science departement_no
+Ποιό απο τα παρακάτω μαθήματα διδάσκει ο Κ.Βράκας;_Δίκτυα Επικοινωνιών_Βάσεις Δεδομένων_Βασικές Αρχές Προγραμματισμού_Αριθμητική Ανάλυση_Βασικές Αρχές Προγραμματισμού_Τμήμα Πληροφορικής ΑΠΘ_no
+Which of the following courses taught by Mr.Vrakas?_Communication Networks_Data Bases_Basic Principles of Programming_Numerical Analysis_Basic Principles of Programming_AUTH computer science departement_no
+Πότε ιδρύθηκε το τμήμα πληροφορικής στο ΑΠΘ;_1985_1990_1991_1995_1991_Τμήμα Πληροφορικής ΑΠΘ_no
+When the AUTS's computer science departement was created?_1985_1990_1991_1995_1991_AUTH computer science departement_no 
+Ποιος ειναι ο εικονιζόμενος;__Ο Κ.Νικοπολιτίδης_Ο Κ.Βλαχάβας_Ο Κ.Τσουμάκας_Ο Κ.Βράκας_Ο Κ.Βράκας_Τμήμα Πληροφορικής ΑΠΘ_a
+Who is the illustrated professor?_Mr.Nikopolitidis_Mr.Vlahavas_Mr.Tsoumakas_Mr.Vrakas_Mr.Vrakas_AUTH computer science departement_a
+Πόσο κάνει 5+5;_10_5_15_55_10_Μαθηματικά_no
+What is the result of 5+5?_10_5_15_55_10_Mathematics_no
+Πόσο κάνει (1+5)*0;_6_5_1_0_0_Μαθηματικά_no 
+What is the result of (1+5)*0?_6_5_1_0_0_Mathematics_no 
+Ποιά είναι η τρίτη ρίζα του 64;_4_5_6_8_4_Μαθηματικά_no 
+What is the third root of 64?_4_5_6_8_4_Mathematics_no
+Πότε έγιναν τελευταία φορά ολυμπιακοί αγώνες στην Ελλάδα;_1996_2000_2004_2008_2004_Αθλητικά_no
+When were last Olympic Games in Greece?_1996_2000_2004_2008_2004_Sports_no
+Σε ποια χώρα έγιναν οι τελευταίοι ολυμπιακοί αγώνες;_Κίνα_Ελλάδα_Ρωσία_Βραζιλία_Βραζιλία_Αθλητικά_no
+In which country were the last Olympic Games?_China_Greece_Russia_Brazil_Brazil_Sports_no
+Ποιά ομάδα κατέκτησε το αγγλικό πρωτάθλημα την σεζόν 2015-2016;_Τσέλσι_Λέστερ_Λίβερπουλ_Άρσεναλ_Λέστερ_Αθλητικα_no
+Which team won the English league on season 2015-2016?_Chelsea_Leicester_Liverpool_Arsenal_Leicester_Sports_no
+Ποιός είναι ο εικονιζόμενος αθλητής;_Νικοπολίδης_Φύσσας_Καψής_Ζαγοράκης_Ζαγοράκης_Αθλητικά_b
+Who is the illustrated athlete?_Nikopolidis_Fyssas_Kapsis_Zagorakis_Zagorakis_Sports_b
+Πότε ξεκίνησε ο πρώτος παγκόσμιος πόλεμος;_1821_1908_1914_1940_1914_Ιστορία_no 
+When did the first world war begin?_1821_1908_1914_1940_1914_History_no
+Πότε έγινε η επανάσταση των Ελλήνων κατά των τούρκων;_1453_1680_1800_1821_1821_Ιστορία_no
+When was the revolt of the Greeks against the Turks?_1453_1680_1800_1821_1821_History_no
+Πόσα χρόνια κράτησε η χούντα στην Ελλάδα;_6_7_8_10_7_Ιστορία_no
+How many years kept the dictatorship in Greece?_6_7_8_10_7_History_no
+Ποιός είναι ο εικονιζόμενος πολιτικός;_Βενιζέλος_Ρούσβελτ_Τσόρτσιλ_Χίτλερ_Βενιζέλος_Ιστορία_c
+Who is the illustrated politician?_Venizelos_Roosevelt_Churchill_Hitler_Venizelos_History_c
+Ποιά χρονιά κέρδισε η Ελλάδα την Eurovision?_2004_2005_2006_2007_2005_Καλλιτεχνικός Χώρος_no
+What year Greece won the Eurovision;_2004_2005_2006_2007_2005_Celebrities_no
+Πότε παίχτηκε για πρώτη φορά το σίριαλ "Κωνσταντίνου και Ελένης";_1996_1997_1998_1999_1998_Καλλιτεχνικός Χώρος_no     
+When first played the tv-series "Κωνσταντίνου και Ελένης"?_1996_1997_1998_1999_1998_Celebrities_no  
+Ποιός τραγουδιτής λέει το τραγούδι "Επιστροφές Καταστροφές";_Τερζής_Μητροπάνος_Καρράς_Παντελίδης_Τερζής_Καλλιτεχνικός Χώρος_no  
+Who singer says the song "Επιστροφές Καταστροφές"?_Terzis_Mitropanos_Karras_Pantelidis_Terzis_Celebrities_no 
+Ποιός είναι ο εικονιζόμενος καλλιτέχνης;_Ρουβάς_Ρέμος_Μαραβέγιας_Μουζουράκης_Μαραβέγιας_Καλλιτεχνικός Χώρος_d
+Who is the illustrated celebrity?_Rouvas_Remos_Maraveyas_Mouzourakis_Maraveyas_Celebrities_d
+Ποιά είναι η πρωτεύουσα της Ελλάδας;_Αθήνα_Παρίσι_Βερολίνο_Λονδίνο_Αθήνα_Γεωγραφία_no    
+What is the capital of Greece?_Athens_Paris_Berlin_London_Athens_Geography_no
+Ποιά είναι η πρωτεύουσα της Γαλλίας;_Αθήνα_Παρίσι_Βερολίνο_Λονδίνο_Παρίσι_Γεωγραφία_no    
+What is the capital of France?_Athens_Paris_Berlin_London_Paris_Geography_no
+Ποιά είναι η πρωτεύουσα της Γερμανίας;_Αθήνα_Παρίσι_Βερολίνο_Λονδίνο_Βερολίνο_Γεωγραφία_no    
+What is the capital of Germany?_Athens_Paris_Berlin_London_Berlin_Geography_no
+Ποιά χώρα έχει αυτή τη σημαία;_Ελλάδα_Ισπανία_Πορτογαλία_Ιταλία_Ισπανία_Γεωγραφία_e
+Which country has this flag?_Greece_Spain_Portugal_Italy_Spain_Geography_e
+Πόσα οστά έχει ένας άνθρωπος;_200_202_204_206_206_Υγεία_no
+How many bones has a human?_200_202_204_206_206_Health_no
+Πόσες μυρωδίες μπορεί να θυμάται η μύτη του ανθρώπου;_30.000_40.000_50.000_60.000_50.000_Υγεία_no
+How many scents can remember the human nose;_30.000_40.000_50.000_60.000_50.000_Health_no
+Ποιό απο τα παρακάτω είναι σεξουαλικά μεταδιδόμενο νόσημα;_Καρκίνος_AIDS_Μυωπία_Πονοκέφαλος_AIDS_Υγεία_no
+Which of the following is a sexually transmitted disease?_Cancer_AIDS_Μyopia_Headache_AIDS_Health_no
