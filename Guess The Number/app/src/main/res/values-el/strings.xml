@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Μάντεψε Τον Αριθμό</string>
+    <string name="remaining_tries">Απομένουν Προσπάθιες : </string>
+    <string name="hint_message">Δώσε έναν αριθμό μεταξύ 1-100</string>
+    <string name="check_button">Έλεγχος</string>
+    <string name="restart_button">Επανεκκίνηση</string>
+    <string name="wrong_message_1">Πρέπει πρώτα να δώσεις έναν αριθμό</string>
+    <string name="wrong_message_2">Πρέπει να δώσεις έναν αριθμό μεταξύ 1-100</string>
+    <string name="win_message">Συγχαρητήρια, κέρδισες !!!</string>
+    <string name="lose_message">Έχασες.Ο αριθμός που έπρεπε να μαντέψεις ήταν το </string>
+    <string name="help_message_1">Ο αριθμός που πρέπει να μαντέψεις είναι μεγαλύτερος.</string>
+    <string name="help_message_2">Ο αριθμός που πρέπει να μαντέψεις είναι μικρότερος.</string>
+    <string name="restart_message">Κάνε επανεκκίνηση το παιχνίδι για να παίξεις ξανά</string>
+
+</resources>

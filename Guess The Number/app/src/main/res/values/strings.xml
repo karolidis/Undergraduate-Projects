@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Guess The Number</string>
+    <string name="remaining_tries">Remaining Tries : </string>
+    <string name="hint_message">Give a number between 1-100</string>
+    <string name="check_button">Check</string>
+    <string name="restart_button">Restart</string>
+    <string name="wrong_message_1">You must first give a number</string>
+    <string name="wrong_message_2">You must give a number between 1-100</string>
+    <string name="win_message">Congratulations, you won !!!</string>
+    <string name="lose_message">You lost.The number you had to guess was </string>
+    <string name="help_message_1">The number you are trying to guess is bigger.</string>
+    <string name="help_message_2">The number you are trying to guess is smaller.</string>
+    <string name="restart_message">Restart tha game to play again</string>
+
+</resources>
