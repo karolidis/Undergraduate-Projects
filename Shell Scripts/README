@@ -1,0 +1,7 @@
+My first simple shell scripts.
+
+I wrote this scripts for "Operation Systems" course.
+
+"f" shell script is an implementation of fibonacci sequence.
+
+"chrom" shell script implement the opening of chromium browser,starting processes,closing processes and write down some stats of processes's characteristics.
