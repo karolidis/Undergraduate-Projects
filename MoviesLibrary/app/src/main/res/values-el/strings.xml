@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movies-Library</string>
+    <string name="Button1">Όλες Οι Ταινίες</string>
+    <string name="Button2">3 Καλύτερες Ταινίες</string>
+    <string name="Button3">3 Χειρότερες Ταινίας</string>
+    <string name="Button4">Προσθήκη Νέας Ταινίας</string>
+    <string name="ET1">Τίτλος Ταινίας</string>
+    <string name="ET2">Έτος Κυκλοφορίας</string>
+    <string name="ET3">Βαθμολογία από το 0 εώς το 10</string>
+    <string name="Button5">Αποθήκευση</string>
+    <string name="T1">Τίτλος</string>
+    <string name="T2">Έτος</string>
+    <string name="T3">Βαθμολογία</string>
+    <string name="Button6">Επεξεργασία</string>
+    <string name="Button7">Διαγραφή</string>
+    <string name="Toast1">Συμπληρώστε όλα τα πεδία</string>
+    <string name="Toast2">Βαθμολογήστε από το 0 εώς το 10.</string>
+    <string name="Toast3">Η ταινία αποθηκεύτηκε επιτυχώς.</string>
+    <string name="Toast4">Υπάρχει ήδη στην βάση ταινία με ίδιο όνομα και ίδιο έτος κυκλοφορίας.</string>
+    <string name="Toast5">Η βάση δεδομένων είναι άδεια.</string>
+    <string name="Toast6">Η επεξεργασία αποθηκεύτηκε επιτυχώς.</string>
+    <string name="Toast7">Η ταινία διαγράφηκε επιτυχώς.</string>
+    <string name="Toast8">Δεν υπάρχουν αποθηκευμένες ταινίες στην βάση.</string>
+    <string name="Toast9">Υπάρχει μόνο μία ταινία αποθηκευμένη στην βάση.</string>
+    <string name="Toast10">Υπάρχουν μόνο δύο αποθηκευμένες ταινίες στην βάση.</string>
+    <string name="Title1">Όλες Οι Ταινίες</string>
+    <string name="Title2">3 Καλύτερες Ταινίες</string>
+    <string name="Title3">3 Χειρότερες Ταινίας</string>
+    <string name="Title4">Προσθήκη Νέας Ταινίας</string>
+    <string name="Title5">Στοιχεία Ταινίας</string>
+    <string name="Title6">Επεξεργασία Στοιχείων Ταινίας</string>
+
+</resources>

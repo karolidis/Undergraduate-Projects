@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#616161"
+    tools:context="com.example.android.movieslibrary.AddMovie">
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:textStyle="bold"
+            android:text="@string/T1"
+            style="@style/TextViews" />
+
+        <TextView
+            android:id="@+id/text1"
+            style="@style/TextViews" />
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_marginTop="7dp"
+            android:text="@string/T2"
+            style="@style/TextViews" />
+
+        <TextView
+            android:id="@+id/text2"
+            style="@style/TextViews" />
+
+        <TextView
+            android:textStyle="bold"
+            android:layout_marginTop="7dp"
+            android:text="@string/T3"
+            style="@style/TextViews" />
+
+        <TextView
+            android:id="@+id/text3"
+            style="@style/TextViews" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:layout_below="@+id/ll"
+        android:layout_above="@+id/editbutton"
+        android:src="@drawable/moviestrip2"/>
+
+    <Button
+        android:id="@+id/editbutton"
+        android:layout_above="@+id/delete"
+        style="@style/SecondaryButtons"
+        android:text="@string/Button6"
+        android:onClick="goEdit"/>
+
+    <Button
+        android:id="@+id/delete"
+        style="@style/SecondaryButtons"
+        android:text="@string/Button7"
+        android:layout_alignParentBottom="true"
+        android:onClick="delete"/>
+
+</RelativeLayout>

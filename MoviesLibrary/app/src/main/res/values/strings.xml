@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Movies-Library</string>
+    <string name="Button1">All Movies</string>
+    <string name="Button2">3 Top Rated Movies</string>
+    <string name="Button3">3 Worst Rated Movies</string>
+    <string name="Button4">Add New Movie</string>
+    <string name="ET1">Movie Title</string>
+    <string name="ET2">Release Year</string>
+    <string name="ET3">Rating 0 to 10</string>
+    <string name="Button5">Save</string>
+    <string name="T1">Title</string>
+    <string name="T2">Year</string>
+    <string name="T3">Rating</string>
+    <string name="Button6">Edit</string>
+    <string name="Button7">Delete</string>
+    <string name="Toast1">Complete all fields.</string>
+    <string name="Toast2">Rate from 0 to 10.</string>
+    <string name="Toast3">The movie was successfully saved.</string>
+    <string name="Toast4">There is already a movie in the database with same title and year.</string>
+    <string name="Toast5">Database is empty.</string>
+    <string name="Toast6">Edit was successfully saved.</string>
+    <string name="Toast7">The movie was successfully removed.</string>
+    <string name="Toast8">There are no movies in database.</string>
+    <string name="Toast9">There is only one movie in database.</string>
+    <string name="Toast10">There are only two movies in database.</string>
+    <string name="Title1">All Movies</string>
+    <string name="Title2">3 Top Rated Movies</string>
+    <string name="Title3">3 Worst Rated Movies</string>
+    <string name="Title4">Add New Movie</string>
+    <string name="Title5">Movie Information</string>
+    <string name="Title6">Edit Movie Information</string>
+
+</resources>

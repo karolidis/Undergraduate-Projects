@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#616161"
+    android:orientation="vertical"
+    tools:context="com.example.android.movieslibrary.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/b1"
+            style="@style/MainButtons"
+            android:text="@string/Button1"
+            android:onClick="show_all_movies"/>
+
+        <Button
+            android:id="@+id/b2"
+            style="@style/MainButtons"
+            android:text="@string/Button2"
+            android:onClick="show_best3_movies"/>
+
+        <Button
+            android:id="@+id/b3"
+            style="@style/MainButtons"
+            android:text="@string/Button3"
+            android:onClick="show_worst3_movies"/>
+
+        <Button
+            android:id="@+id/b4"
+            style="@style/MainButtons"
+            android:text="@string/Button4"
+            android:onClick="add_new_movie"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="25dp"
+        android:src="@drawable/cinefil"/>
+
+</LinearLayout>
