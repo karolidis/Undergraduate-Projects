@@ -1,4 +1,4 @@
-#QuickHull
+# QuickHull
 
 A program written in JAVA that implements a problem solution using QuickHull algorithm.
 
