@@ -1,5 +1,5 @@
 # Treasure Hunt
-Τhis program was for "MULTIAGENT SYSTEMS" course.
+Τhis program was written for "Multi-agent Systems" course.
 
 The program contains graphics to make easier for the user to see the agents's locations. There are two teams ( each team has 2 agents). The goal is to find the treasure and the agents of the same team can communicate. There are many obstacles (lakes and sea) and the agents can evaluate the next movement. In addition, each agent keeps track of his previous moves.
 ### Elements of the environment:
