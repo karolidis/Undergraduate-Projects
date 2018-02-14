@@ -1,4 +1,4 @@
-#Greek-English Vocabulary
+# Greek-English Vocabulary
 
 A Greek-English Vocabulary program written in C.
 
