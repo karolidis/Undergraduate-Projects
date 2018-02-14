@@ -2,4 +2,6 @@ This program is written in C++ and implements the Ubuntu terminal in a simple ed
 
 This program was written for "Operation Systems" course.
 
-Program written by Theodoros Karolidis(me) and Georgios Panagiotatos(fellow student).
+### Contributors:
+* [Theodoros Karolidis](https://github.com/karolidis)
+* [Giorgos Panagiotatos](https://github.com/panagiotat)
