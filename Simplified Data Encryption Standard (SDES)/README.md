@@ -1,4 +1,4 @@
-#Simplified Data Encryption Standard (SDES)
+# Simplified Data Encryption Standard (SDES)
 
 This program implements SDES encryption/decryption algorithm.
 
